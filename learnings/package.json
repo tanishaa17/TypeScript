@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve:1": "tsc src/index.ts"
+    "serve:1": "tsc src/index.ts",
+    "server": "tsc --watch"
   },
   "keywords": [],
   "author": "",
